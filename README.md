@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suhail451" alt="suhail451" /></a> </p>
 
-- 🔭 I’m currently working on **Job Portal Project in java**
+
 
 - 🌱 I’m currently learning **Java oop,Python,Sql**
 

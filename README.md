@@ -7,11 +7,11 @@
 
 
 
-- 🌱 I’m currently learning **Java oop,Python,Sql**
+- 🌱 I’m currently Learning **Backend Development in Java Spring Boot**
 
-- 🤝 I’m looking for help with **Job Portal project**
+- 🤝 I’m Seeking for internship in **junior Backend Developer**
 
-- 💬 Ask me about **Data,tech trends,and Python**
+- 💬 Ask me about **Data,tech trends,and Java **
 
 - 📫 How to reach me **arainsuhail451@gmail.com**
 

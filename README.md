@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhail Ahmed</h1>
-<h3 align="center">A passionate Data story teller with Analytical and Java programming skills from Pakistan</h3>
+<h3 align="center">A passionate Data story teller with Analytical and Java Spring Boot skills from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhail451&label=Profile%20views&color=0e75b6&style=flat" alt="suhail451" /> </p>
 

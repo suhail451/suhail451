@@ -36,19 +36,22 @@
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-#### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 ### 🔐 What I've Built — Auth Vault
 
-> A production-grade **Authentication & Authorization Backend Service** that developers can plug into their own applications.
+> Currently I am working on production-grade **Authentication & Authorization Backend Service** that developers can plug into their own applications.
 
 **Features implemented:**
 - ✅ JWT Access Token + Refresh Token system
@@ -66,6 +69,17 @@
 - 🔄 Cloud deployment
 
 ---
+### 💳 Side Project — Vyncul (In Progress)
+
+> An **API Gateway** connecting Fintech developers with Banks —
+> developers integrate once and get access to multiple banking APIs
+> through a single secure layer.
+
+**Building:**
+- 🔄 Unified API layer between banks and fintech apps
+- 🔄 Developer portal with API key management
+- 🔄 Secure request routing & authentication
+- 🔄 Web portal for bank & developer onboarding
 
 ### 📊 GitHub Stats
 

@@ -20,7 +20,7 @@
 - 🛡️ Passionate about **secure backend architecture**  JWT, Refresh Tokens, Role-Based Access, Rate Limiting
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Authentication Systems**
 - 📫 Reach me at **arainsuhail451@gmail.com**
-- ⚡ Fun fact: **I once spent 3 hours debugging only to find a missing semicolon — now I respect every character in my codebase**
+- ⚡ Fun fact: **I once spent 3 hours debugging only to find a missing semicolon and now I respect every character in my codebase**
 
 ---
 

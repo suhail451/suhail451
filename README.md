@@ -15,13 +15,12 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Auth Vault** — a production-ready JWT authentication backend service
+- 🔭 Currently building **Auth Vault** a production ready JWT authentication backend service
 - 🌱 Deepening expertise in **Java Spring Boot, System Design & Cloud Deployment**
-- 🛡️ Passionate about **secure backend architecture** — JWT, Refresh Tokens, Role-Based Access, Rate Limiting
-- 🤝 Seeking **Junior Backend Developer internship**
+- 🛡️ Passionate about **secure backend architecture**  JWT, Refresh Tokens, Role-Based Access, Rate Limiting
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Authentication Systems**
 - 📫 Reach me at **arainsuhail451@gmail.com**
-- ⚡ Fun fact: **I debug code at 2am and call it productive sleep**
+- ⚡ Fun fact: **I once spent 3 hours debugging only to find a missing semicolon — now I respect every character in my codebase**
 
 ---
 
@@ -69,17 +68,22 @@
 - 🔄 Cloud deployment
 
 ---
-### 💳 Side Project — Vyncul (In Progress)
+### 🚀 Startup — Vyncul (In Development)
 
-> An **API Gateway** connecting Fintech developers with Banks —
-> developers integrate once and get access to multiple banking APIs
-> through a single secure layer.
+> **Vyncul** is a Fintech startup building an **API Gateway** between
+> Banks and Fintech developers — enabling developers to integrate
+> banking services through one secure, unified layer instead of
+> dealing with each bank separately.
 
-**Building:**
-- 🔄 Unified API layer between banks and fintech apps
-- 🔄 Developer portal with API key management
-- 🔄 Secure request routing & authentication
-- 🔄 Web portal for bank & developer onboarding
+**Core Features being built:**
+- 🏦 Multi-bank API integration through single gateway
+- 🔐 Secure developer onboarding & API key management
+- 📋 Full audit logging of every transaction & request
+- 👥 Bank & developer portal with role-based access
+- 📊 Usage analytics & monitoring dashboard
+- ⚖️ Compliance-ready architecture for financial services
+
+  
 
 ### 📊 GitHub Stats
 

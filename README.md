@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suhail Ahmed</h1>
+<h1 align="center">Hi , I'm Suhail Ahmed</h1>
 <h3 align="center">Backend Developer | Java Spring Boot | Building Secure & Scalable APIs</h3>
 
 <p align="left">
@@ -60,10 +60,10 @@
 - ✅ Global Exception Handling with proper error responses
 - ✅ BCrypt password encryption
 - ✅ Spring Security filter chain
-- ✅ Protected endpoints with `@PreAuthorize`
+- ✅ Protected endpoints with`@PreAuthorize`
+- ☑️ Developer Portal with API key      management
 
 **Coming soon:**
-- 🔄 Developer Portal with API key management
 - 🔄 Swagger documentation
 - 🔄 Cloud deployment
 
